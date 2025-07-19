@@ -1,9 +1,7 @@
-# YouTubeGPT
-An intelligent, Streamlit-powered app that summarizes YouTube videos using their transcripts with RAG (Retrieval-Augmented Generation).
-
-# 🎥 YouTube Transcript Summarizer using RAG (Retrieval-Augmented Generation)
+# 🎥 YouTube Transcript Summarizer using RAG (Retrieval-Augmented Generation)   ----YouTubeGPT
 
 This is a Retrieval-Augmented Generation (RAG) based system that allows users to interact with YouTube videos in a more intelligent way.
+An intelligent, Streamlit-powered app that summarizes YouTube videos using their transcripts with RAG (Retrieval-Augmented Generation).
 By simply providing a YouTube link, the system extracts the video transcript, breaks it down into meaningful chunks, and enables users to ask questions or request summaries — powered by embeddings and a large language model (LLM).
 
 ---
@@ -30,10 +28,20 @@ By simply providing a YouTube link, the system extracts the video transcript, br
 * 📦 Fully modular design with retriever, chunking, and summarization components
 
 ---
+## 🖼️ Example YouTube Video
+
+<img width="368" height="184" alt="image" src="https://github.com/user-attachments/assets/41ba9c04-33e3-4400-bbaf-80721e0f6191" />
+
+---
 
 ## 🖼️ Result Screenshots
 
 <img width="966" height="846" alt="image" src="https://github.com/user-attachments/assets/6a0e7020-9875-455e-a443-1bc1711d26c8" />
+
+---
+
+<img width="984" height="917" alt="image" src="https://github.com/user-attachments/assets/187b26f0-817a-474d-adc6-4ec11e8ed345" />
+
 
 ---
 
@@ -43,8 +51,8 @@ By simply providing a YouTube link, the system extracts the video transcript, br
 | ----------------------- | -------------------------------- |
 | **Frontend**            | Streamlit                        |
 | **Transcript Fetching** | `youtube-transcript-api`         |
-| **Embedding**           | OpenAI Embeddings / HuggingFace  |
-| **Vector Search**       | FAISS / Chroma                   |
+| **Embedding**           | HuggingFace                      |
+| **Vector Search**       | FAISS                            |
 | **LLM**                 | OpenAI GPT / Local LLM           |
 | **Chunking Logic**      | Custom (Sliding Window or Fixed) |
 | **Backend Language**    | Python                           |
@@ -62,5 +70,5 @@ By simply providing a YouTube link, the system extracts the video transcript, br
 ## 👤 Author
 
 **Shivam Kashyap**
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/shivam4776) • [Email](mailto:shivam4776kashyap@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shivam-kashyap-2768691b5) • [GitHub](https://github.com/shivam4776) • [Email](mailto:shivam4776kashyap@gmail.com)
 
