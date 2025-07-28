@@ -1,4 +1,4 @@
-# 🎥 YouTube Video QA System using RAG (Retrieval-Augmented Generation)                            --YouTubeGPT
+# 🎥 YouTube Video QA System using RAG
 
 This is a Retrieval-Augmented Generation (RAG) based system that allows users to interact with YouTube videos in a more intelligent way.
 An intelligent, Streamlit-powered app that summarizes YouTube videos using their transcripts with RAG (Retrieval-Augmented Generation).
