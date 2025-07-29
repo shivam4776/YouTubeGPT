@@ -30,7 +30,7 @@ By simply providing a YouTube link, the system extracts the video transcript, br
 ---
 ## 🖼️ Example YouTube Video
 
-<img width="268" height="84" alt="image" src="https://github.com/user-attachments/assets/41ba9c04-33e3-4400-bbaf-80721e0f6191" />
+<img width="368" height="284" alt="image" src="https://github.com/user-attachments/assets/41ba9c04-33e3-4400-bbaf-80721e0f6191" />
 
 ---
 
